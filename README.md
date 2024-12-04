@@ -1,5 +1,5 @@
 # Advent of Code 2024
-This is a compilation of the algorithms I came up with without using AI. This is mostly down with anonymous Apex scripts.
+This is a compilation of the algorithms I came up with without using AI. This is mostly done with anonymous Apex scripts.
 
 <b>Two Lists to Compare, Subtract and Add</b><br />
 two-lists-compare-and-subtract-and-add.apex<br />
